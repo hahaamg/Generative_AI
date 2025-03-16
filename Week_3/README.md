@@ -12,3 +12,9 @@
 * 車牌問題：車牌的處理較為粗糙，號碼模糊不清，且有時出現無意義的亂碼，使其無法仿真真實車牌。
 * 設計較為過時：生成的汽車多呈現較舊的設計風格，可能與訓練數據集中較多的舊款車型有關，使其難以生成較為現代化的車款。
 * 背景變形與融合問題：背景經常呈現失真或模糊狀態，部分情境下甚至會與車輛融合，使得汽車與環境之間的界線不明確。
+
+  
+![圖1](img/thisautomobiledoesnotexist(1).png)
+![圖2](img/thisautomobiledoesnotexist(2).png)
+![圖3](img/thisautomobiledoesnotexist(3).png)
+![圖4](img/thisautomobiledoesnotexist(4).png)
