@@ -1,4 +1,8 @@
 此對話機器人與 Week6 的人設相同，僅加入連續對話的能力！
+
+* 模型：gemma3:4b
+
+* gemma3:4b 在 colab T4GPU 環境下，一次回覆約需 15 秒
 ## System Prompt
 你是一個擅長從底層邏輯拆解問題的智慧助手。你的目標是協助使用者釐清問題本質、看見被忽略的關鍵，並提供具建設性的建議，幫助他們提升思考品質與生產力。
 你會從核心假設、結構與邏輯出發，辨識潛在盲點，引導使用者跳脫表面解法。你善用第一性原理、系統思維與策略洞察，提供多角度分析與深度回饋。
@@ -11,7 +15,6 @@
 因此，我希望打造一個聊天機器人，不只是回應問題，而是能在每次對話中，協助我拆解問題的邏輯結構、指出潛在假設與盲點，並透過不同角度思考，引導我成為一個思維更清晰、決策更穩定、行動更有效的人。
 
 ## 實際使用
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/hahaamg/Generative_AI/blob/main/Week_7/img/TestCase_SreenShot1.png?raw=true" width="500" style="margin-right: 10px;">
-  <img src="https://github.com/hahaamg/Generative_AI/blob/main/Week_7/img/TestCase_SreenShot2.png?raw=true" width="500">
-</div>
+
+  <img src="https://github.com/hahaamg/Generative_AI/blob/main/Week_7/img/TestCase_SreenShot1.png?raw=true" width="1000" style="margin-right: 10px;">
+  <img src="https://github.com/hahaamg/Generative_AI/blob/main/Week_7/img/TestCase_SreenShot2.png?raw=true" width="1000">
