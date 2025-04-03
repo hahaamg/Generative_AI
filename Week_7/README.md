@@ -11,4 +11,4 @@
 因此，我希望打造一個聊天機器人，不只是回應問題，而是能在每次對話中，協助我拆解問題的邏輯結構、指出潛在假設與盲點，並透過不同角度思考，引導我成為一個思維更清晰、決策更穩定、行動更有效的人。
 
 ## 實際使用
-![image](https://github.com/hahaamg/Generative_AI/blob/main/Week_6/img/TestCase_ScreenShot.png)
+![image](https://github.com/hahaamg/Generative_AI/blob/main/Week_7/img/screenshot.png?raw=true)
