@@ -14,3 +14,7 @@
 
 使用者的提問如下：
 {question}
+
+## 實際使用
+  <img src="https://github.com/hahaamg/Generative_AI/blob/main/Week_8/img/TestCase_SreenShot1.png?raw=true" width="1000" style="margin-right: 10px;">
+  <img src="https://github.com/hahaamg/Generative_AI/blob/main/Week_8/img/TestCase_SreenShot2.png?raw=true" width="1000" style="margin-right: 10px;">
