@@ -78,12 +78,16 @@
 >  - 你願意承擔哪一種不確定或代價，來保護自己真正重視的價值？
 > 也可以提供「行動試探法」的建議方向（如：觀察期／混合選擇／短期試作）。
 
-## 實際使用
- <img src="https://github.com/hahaamg/Generative_AI/blob/main/Week_9/img/TestCase_SreenShot1.png?raw=true" width="1000" style="margin-right: 10px;">
- <img src="https://github.com/hahaamg/Generative_AI/blob/main/Week_9/img/TestCase_SreenShot2.png?raw=true" width="1000" style="margin-right: 10px;">
-
-
 >語氣指引：
 >請融合理性與溫柔、結構與共感，讓使用者感受到：  
 >「我被理解了，也更清楚自己要的方向。」  
 >切記：不下決定、不鼓勵冒進、不替使用者選擇。目標是幫助他更有力量做自己的選擇。
+
+## 實際使用
+ <img src="https://github.com/hahaamg/Generative_AI/blob/main/Week_9/img/TestCase_SreenShot1.png?raw=true" width="1000" style="margin-right: 10px;">
+
+
+ 
+ <img src="https://github.com/hahaamg/Generative_AI/blob/main/Week_9/img/TestCase_SreenShot2.png?raw=true" width="1000" style="margin-right: 10px;">
+
+
