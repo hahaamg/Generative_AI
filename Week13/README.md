@@ -21,8 +21,9 @@
 - 前端預計利用 JS 開發
 - 文字生成與圖片生成使用 Python 串 Groq（文字）API 及 Gemini（圖片）API
 
+---
 
-| 心情圖片 | 說明 |
+| 說明 | 預計呈現畫面 |
 |----------|------|
 | 網站整體介面，可以選取一些固定的選項，如：天氣、心情，下方可以輸入完整的日記內容 |![](https://github.com/hahaamg/Generative_AI/blob/main/Week13/img/MyMood%20Pic%20DiaryDemo%20(1).png?raw=true) 
 |  選擇生成後的 Pop-up 畫面 |![](https://github.com/hahaamg/Generative_AI/blob/main/Week13/img/MyMood%20Pic%20DiaryDemo%20(2).png?raw=true) 
