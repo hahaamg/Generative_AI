@@ -22,7 +22,7 @@
 - 文字生成與圖片生成使用 Python 串 Groq（文字）API 及 Gemini（圖片）API
 
 ---
-
+可能介面會改為 Gradio 設計
 | 說明 | 預計呈現畫面 |
 |----------|------|
 | 網站整體介面，可以選取一些固定的選項，如：天氣、心情，下方可以輸入完整的日記內容 |![](https://github.com/hahaamg/Generative_AI/blob/main/Week13/img/MyMood%20Pic%20DiaryDemo%20(1).png?raw=true) 
