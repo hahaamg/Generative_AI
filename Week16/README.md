@@ -10,6 +10,12 @@ MyMood Pic Diary 是一個創新的 AI 日記應用，結合了自然語言處�
 2. **多語言處理**：將中文總結翻譯成英文圖像描述
 3. **圖像生成**：創建符合當日心情和情境的專屬插畫
 
+
+<div align="center">
+  <img src="img/MyMood%20Pic%20Diary%20(1).png" width="45%">
+  <img src="img/MyMood%20Pic%20Diary%20(2).png" width="45%">
+</div>
+
 ## ✨ 主要功能
 
 ### 📝 智能日記總結
